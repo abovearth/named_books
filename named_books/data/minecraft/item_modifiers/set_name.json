@@ -1,0 +1,11 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "entity": "this",
+    "name": {
+      "nbt": "data.Enchantments[0].translate",
+      "storage": "named_books:book",
+      "italic": false
+    }
+  }
+]
